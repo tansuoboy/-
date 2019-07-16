@@ -1,5 +1,9 @@
 <HTML>
-  
+  <head>
+  <style type= "text/css ">
+a {color:#000000; font-size:14px;}
+</style>
+  </head>
   <body>
   <a href="https://www.baidu.com">百度链接</a><br/>
   <a href="https://www.feizhan.cc/">全网影视</a><br/>
